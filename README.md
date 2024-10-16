@@ -56,7 +56,7 @@ O _Filtro Sobel_ foi o mais eficaz para destacar as bordas na imagem. Ele realç
 
 - **Filtro de Mediana:** Com a utilização dos kernels 3x3 e 7x7 podemos verificar a remoção eficaz de ruídos menores (sal e pimenta), e também a preservação das bordas.
 
-<img src="./image/filtro-mediana-experimentacao.png" alt="Imagem de Alan Turing com filtro Sobel aplicado" width="1000"/>
+  <img src="./image/filtro-mediana-experimentacao.png" alt="Imagem de Alan Turing com filtro Sobel aplicado" width="1000"/>
 
 
 ---
