@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-imagem = cv2.imread('./image/alan.jpg')
+imagem = cv2.imread('./image/alan.jpg', cv2.IMREAD_GRAYSCALE)
 
 filtro_7x7 = cv2.blur(imagem, (7, 7))
 
